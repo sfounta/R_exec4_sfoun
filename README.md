@@ -1,2 +1,2 @@
-# R_exec4_sfoun
+# Example of README.md
 Repository for R
